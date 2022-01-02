@@ -1,129 +1,165 @@
 {
   "personalInfo": {
     "name": {
-      "firstName": "Thiago",
-      "lastName": "Loschi"
+      "firstName": "Mauro",
+      "lastName": "Moledo"
     },
-    "jobTitle": "Senior Front End Engineer",
-    "location": "Ottawa, Canada",
+    "jobTitle": "Junior Front End Engineer",
+    "location": "Niterói, Brazil",
     "contacts": [
       {
         "name": "linkedin",
-        "url": "https://linkedin.com/in/thiagoloschi"
+        "url": "https://linkedin.com/in/mauromoledo"
       },
       {
         "name": "github",
-        "url": "https://github.com/thiagoloschi"
-      },
-      {
-        "name": "codepen",
-        "url": "https://codepen.io/thiagoloschi"
+        "url": "https://github.com/mauromoledo"
       },
       {
         "name": "instagram",
-        "url": "https://instagram.com/thiagoloschi_"
-      },
-      {
-        "name": "facebook",
-        "url": "https://facebook.com/thiagoloschi"
+        "url": "https://instagram.com/mauromoledo"
       }
     ]
   },
   "education": [
     {
       "period": {
-        "beginDate": "2015",
-        "endDate": "2016"
+        "beginDate": "2019",
+        "endDate": "2022"
       },
-      "school": "California State University East Bay",
-      "major": "Computer Science",
-      "type": "Non-degree continuing education",
-      "place": "Hayward, United States",
-      "badge": "https://media.licdn.com/dms/image/C510BAQGtl_-oVAWDfA/company-logo_400_400/0?e=1551916800&v=beta&t=NLbSN7SCrikdQJ_Vf1IL2HwGUYoWSdubFYrL7qe-NYg",
-      "url": "https://www.csueastbay.edu"
-    },
-    {
-      "period": {
-        "beginDate": "2013",
-        "endDate": "2016"
-      },
-      "school": "Instituto Federal do Sudeste de Minas Gerais",
-      "major": "Systems for the Internet",
-      "type": "Bachelor of Science",
-      "place": "Barbacena, Brazil",
-      "badge": "https://media.licdn.com/dms/image/C560BAQF9F8N5ohm3Mg/company-logo_400_400/0?e=1551916800&v=beta&t=EGVt1jhzVhphbMEPOZdhJoZbYfyU3eGw0K-5KRREnQo",
-      "url": "https://www.ifsudestemg.edu.br/"
+      "school": "Colégio Pedro  II",
+      "major": "High School",
+      "type": "Federal institution",
+      "place": "Niterói, Brazil",
+      "badge": "https://upload.wikimedia.org/wikipedia/commons/2/25/Logo_CPII.jpg",
+      "url": "https://cp2.g12.br/index.php"
     }
   ],
   "experiences": [
     {
       "period": {
-        "beginDate": "August 2018",
+        "beginDate": "March 2021",
+        "endDate": "October 2021"
+      },
+      "jobTitle": "Front End Developer",
+      "company": "Acadêmicos",
+      "location": "Rio de Janeiro, Brazil",
+      "description": "Acadêmicos is a project geared towards the sharing of extracurricular opportunities and knowledge olympiads. I joined the technology team to develop new features and do maintenance of the website. It was my first opportunity to co-work with other developers (other than my robotics/hackathons team), and write code that must be easy to understand by others. \n\n My last task was to develop a deadline filter in the search mechanism, and also integrate the opportunities dates with the users' Google Calendar. This feature helps students in the entire country to not miss important deadlines, whereas the academicos.org had 373.652 views since its last update.\n\n\n",
+      "url": "https://academicos.org",
+      "image": "https://academicos.org/wp-content/themes/academicos.v2.0.2/assets/dist/img/logo-academicos.png",
+      "color": "#0064a4",
+      "text": "#fff"
+    },
+    {
+      "period": {
+        "beginDate": "April 2020",
         "endDate": "current"
       },
-      "jobTitle": "Senior Front End Engineer",
-      "company": "Farfecth",
-      "location": "Sao Paulo, Brazil",
-      "description": "Working in a multidisciplinary global team, I'm currently helping to build what we consider to be the store of the future. My team is responsible for creating world class connected devices that will boost shoppers experience from the moment they walk in the store until they're ready to leave, making it also possible for them to continue shopping from home.\n\n There are two main React applications we're building and they're mostly being built using Redux, Nextjs, Electron, Webpack, Jest and Enzyme. The main one will be used on our fitting room's smart mirrors.\n\n I'm currently working on two product lines, the Store of The Future and the Black and White platform. Our core clients are huge and well known fashion brands like Chanel, Thom Browne and Browns and we always keep in mind the idea of having our products ready to be used for new clients in the future.",
-      "url": "https://farfetch.com",
-      "image": "https://i.amz.mshcdn.com/VWqhqdBXySHLqXPwYFLJOa3aJ54=/950x534/filters:quality(90)/https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com%2Fuploads%2Fcard%2Fimage%2F446429%2Fa86e424d-51cc-447c-831b-a4b076a9a955.jpg",
+      "jobTitle": "3D Printer Researcher",
+      "company": "Face Shields & Accessibility Projects ",
+      "location": "Rio de Janeiro, Brazil",
+      "description": "After winning a 3D printer in the CriaBrasil Hackathon, I have been studying printing/modeling techniques and electronics to use and repair any malfunction in the machine. In the beginning of the COVID19 pandemic, I created a project consisting of printing Individual Protective Equipment to help the public health system overcome the initial crisis caused by the lack of medical supplies. \n\n With a friend, we were able to print and donate 120 Face Shields  - quantity that supplied the demand of all the polyclinics in our community. \n\n In 2021, I helped my school with the selection and acquisition of two new 3D printers. Furthermore, I developed a scientific research project in which I have been prototyping and researching ways to create Chemistry pedagogic material for teaching blind students.",
+      "url": "http://www.cp2.g12.br/blog/niteroi/2020/04/acao-social-doacao-de-epi.html",
+      "image": "https://i.ibb.co/MVhtBKG/93389212-931087900681696-1257690042967718916-n.jpg",
+      "color": "#07387d",
+      "text": "#fff"
+    },
+    {
+      "period": {
+        "beginDate": "April 2019",
+        "endDate": "current"
+      },
+      "jobTitle": "Physics Researcher",
+      "company": "Brazilian Center for Physics Research (CBPF)",
+      "location": "Rio de Janeiro, Brazil",
+      "description": "Cellular automata, percolation, statistics, probability, data analysis, python programming language, dynamic programming techniques and machine learning are the topics that I have been studying at the CBPF, mentored by a PhD student in quantum computing research. \n\nThe goal of my research is to develop an artificial intelligence (through the use of epidemic models) capable of simulating a virtual city during an epidemic scenario. The AI will simulate rates of contamination for each modification of the sanitary measures, and also predict the effects of open and close local commerce. It would be a useful tool to find the right parameters to maintain the coronavirus pandemic under control while allowing the economy to work in a hybrid setting.",
+      "url": "https://www2.cbpf.br/pt-br/",
+      "image": "https://scontent.fsdu9-1.fna.fbcdn.net/v/t1.6435-9/83207224_2937969929568689_9057000495754772480_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=973b4a&_nc_ohc=zi_6XDXWOu4AX-scy_D&_nc_ht=scontent.fsdu9-1.fna&oh=00_AT-XXr9KaphdTlUjZcBaBRlXCn8GxF5Y8jf_rZOQ7qfVJQ&oe=61F6110E",
+      "color": "#2e3b5b",
+      "text": "#fff"
+    },
+    {
+      "period": {
+        "beginDate": "July 2020",
+        "endDate": "current"
+      },
+      "jobTitle": "Academic Project Founder",
+      "company": "/Lab - Opportunities Laboratory",
+      "location": "Rio de Janeiro, Brazil",
+      "description": "In my school, there were not many academic opportunities, so I founded the SlashLab. In the project, I coordinate 20 students, scheduling the meetings, assigning tasks, and negotiating partnerships. We share academic opportunities and produce workshops/videos about technology, programming, politics and education. \n\n We have +400 followers in social media & 34.6k views on instagram reels. We also offer mentorship programs. Our english mentorship project has already reached 24 mentees, with our 12 mentors having collectively taught 144 hours of classes. \n\n We also run a Hack Club (A global programming club initiative sponsored by Elon Musk) with 20 students. Our most recent action was to raise R$: 1k to finance the 360º mapping of the Pedro II School campuses.",
+      "url": "https://www.instagram.com/_s.lab/",
+      "image": "https://i.ibb.co/7nGf4ft/VEMX1-Vem-X1-feed.png",
       "color": "#fafafa",
       "text": "#333"
     },
     {
       "period": {
-        "beginDate": "July 2017",
-        "endDate": "August 2018"
+        "beginDate": "March 2019",
+        "endDate": "current"
       },
-      "jobTitle": "Front End Engineer",
-      "company": "QuintoAndar",
-      "location": "Sao Paulo, Brazil",
-      "description": "With a product driven mindset and many talented people, I helped to build QuintoAndar, the new generation real estate services in Brazil, with top-notch technologies such as PWA, ES6, React, Redux, Webpack, Nodejs, Jest, Enzyme, and others. This was by far the most enriching experience I had so far.\n\n Some of the accomplishments I helped achieving were:\n\n- Improve company's NPS to a challenging rate\n- Build features to help the company to scale\n- Build APIs that integrates with WhatsApp to improve our communications with our customers\n- Build features to improve SEO and marketing presence \n- Improve our apps performance",
-      "url": "https://quintoandar.com.br",
-      "image": "https://www.kaszek.com/wp-content/uploads/2018/03/qa.png",
-      "color": "#5063f0",
+      "jobTitle": "Co-Leader",
+      "company": "V0ID - Pedro II Robotics Team",
+      "location": "Rio de Janeiro, Brazil",
+      "description": "Since 2019 I’m co-leader and track engineer in my robotics team. Since I joined the team, I have developed my programming and engineering skills, coordinated 3 different teams, taught robotics/programming classes to 20 students, and acted as a volunteer judge to 36 teenagers in the DEGASE institution, which promotes reintegration of young offenders in society. \n\n My team has already won 4 state trophies and developed 3 scientific research papers, 2 of which were awarded in robotics multidisciplinary competitions.\n\n\n\n",
+      "url": "https://v0id-robotica.webflow.io",
+      "image": "https://uploads-ssl.webflow.com/5f68f79a6ffb12734b1884d0/5f68fa17e968a5f086c6f281_Void%20Logo%20x100.png",
+      "color": "#00040d",
       "text": "#fff"
     },
     {
       "period": {
-        "beginDate": "March 2017",
-        "endDate": "July 2017"
+        "beginDate": "March 2016",
+        "endDate": "September 2021"
       },
-      "jobTitle": "Full Stack Developer",
-      "company": "PRTE Tecnologia",
-      "location": "Barbacena, Brazil",
-      "description": "We used to build full scalable and stable applications for our clients and the goal was to propose technical solutions to companies problems, what we used to achieve by focusing on listening to their needs and delivering more than software solutions, but satisfaction and value.\n\n The main project was developed for Zôdio, a French company that was coming to Brazil and had their social network as their main business strategy. \n\nWe built the social network using ES6, Angularjs and Ionic, an API in Ruby and a CMS to manage the API in React.",
-      "url": "https://prte.com.br",
-      "image": "https://scontent.fcgh23-1.fna.fbcdn.net/v/t31.0-8/17635230_1487664674639567_6041624776622573815_o.jpg?_nc_cat=107&_nc_ht=scontent.fcgh23-1.fna&oh=6c1f6872873769658634a387beed7640&oe=5CA429CA",
-      "color": "#f81889",
+      "jobTitle": "Student",
+      "company": "Jr Scientific Initiation Program (PIC. Jr.) and Olympic Center for Intensive Training (POTI)",
+      "location": "Rio de Janeiro, Brazil",
+      "description": "I joined the PIC Jr. in 2015 and the POTI in 2021. At these programs, I have been studying advanced mathematics, focusing on analytical thinking and methods to express logical results. Since then, I think more creatively and autonomously. \n\n During those programs, I have won two gold medals in mathematics olympiads, and solved +1500 problems. I also had the honor to go to the gold medalist event twice, once in Salvador and the other in Rio de Janeiro. At these events, I had the opportunity to network with the other 499 best math students in the country and watched speeches by reputed mathematicians. \n\n In 2016, I was the only gold medalist in my city, so the National TV News broadcasted a story about my performance and background.",
+      "url": "http://www.obmep.org.br",
+      "image": "https://scontent.fsdu9-1.fna.fbcdn.net/v/t1.6435-9/84930484_2923474064340338_2112431118522253312_n.png?_nc_cat=105&ccb=1-5&_nc_sid=973b4a&_nc_ohc=40i3O2qSADUAX8Wq2yO&_nc_ht=scontent.fsdu9-1.fna&oh=00_AT9eEsf8g3ZbaOUFMRPqeif5ny-aFr4IA2xoYlmkORgEXw&oe=61F4F20C",
+      "color": "#02753c",
       "text": "#fff"
     },
     {
       "period": {
-        "beginDate": "September 2016",
-        "endDate": "March 2017"
+        "beginDate": "September 2019",
+        "endDate": "current"
       },
-      "jobTitle": "Front End Developer",
-      "company": "Self",
-      "location": "Barbacena, Brazil",
-      "description": "I've always worked by myself and at this point, I had just returned to Brazil to finish my Sandwich Graduation. \n\nI developed small projects using mostly Nodejs, Angularjs, Express and Mongodb. \n\nThe most impactful one was Instmanager, a client for Instagram that lets you manage your information and also gives you exclusive insights gathered from matching different data returned from the Instagram API.",
-      "url": "https://instmanager.herokuapp.com",
-      "image": "https://instmanager.herokuapp.com/img/main.png",
-      "color": "rgba(153,47,255,1)",
+      "jobTitle": "Hackthon Competitor",
+      "company": "Hackathons",
+      "location": "Rio de Janeiro, Brazil",
+      "description": "What makes me happiest about academic life is the climax of competition and the teamwork rhythm. That’s the reason I’m so passionate about hackathons. In these competitions, I can put leadership, programming, marketing, and design skills to good use. \n\n I have already developed 6 projects during my participation in hackathons, including a whatsapp bot to fight Fake News related to COVID19, a device that monitors the air quality and alerts people of dangerous gases, a smartband to help blind people take buses, a gamified app to encourage and reward people for visiting culturally significant places, and my last project - an API for online shopping via WhatsApp audios which awarded me second place in Hackatech by Fundação Estudar. \n\n Spacial Hackathon SBPC Jovem / NasaSpaceApps / HackNiteroi / Hack CCR/ HackTech Fundação Estudar / Hackthon CriaBrasil / Hackforgood Shawee",
+      "url": "http://www.cp2.g12.br/blog/niteroi/2019/10/estudantes-participam-do-criabrasil.html",
+      "image": "https://www.cp2.g12.br/blog/niteroi/files/2019/10/IMG-20190930-WA0013-1024x768.jpg",
+      "color": "#5e2e00",
       "text": "#fff"
+    },
+
+    {
+      "period": {
+        "beginDate": "July 2020",
+        "endDate": "September 2021"
+      },
+      "jobTitle": "E-Sports Tournaments Organizer",
+      "company": "Pedro II E-sports Team",
+      "location": "Rio de Janeiro, Brazil",
+      "description": "I have been playing League of Legends for the last 9 years. It’s my favorite game. However, instead of playing competitively, I decided to found and support the Pedro II League of Legends Team. Since the foundation in the first semester of 2021, the team has already won two statewide tournaments. In addition, I have also been organizing League of Legends Tournaments. \n\n I have managed two editions of Pedro II intercamp (with 20 teams each one), an internal tournament for the Pedro II Niterói campus (16 teams), a One versus One tournament by the SlashLab (26 players) and the Ultimate Nikity (10 teams), a tournament open to the entire state of Rio de Janeiro, made possible by the partnership with the Niterói city library.  ",
+      "image": "https://www.leagueoflegends.com/static/logo-1200-589b3ef693ce8a750fa4b4704f1e61f2.png",
+      "color": "#f1df9d",
+      "text": "#333"
     },
     {
       "period": {
-        "beginDate": "June 2016",
-        "endDate": "September 2016"
+        "beginDate": "July 2020",
+        "endDate": "September 2021"
       },
-      "jobTitle": "Junior Developer",
-      "company": "University of California, Irvine",
-      "location": "Irvine, United States",
-      "description": "During this Summer Internship, I was part of the team developing a project called iXercise, which aims to stimulate people exercising while they're playing games as Minecraft or Pokemon GO.\n\n I helped building the web app Front End with Angularjs and I also got to give some small Java contributions.",
-      "url": "https://uci.edu/",
-      "image": "https://www.logolynx.com/images/logolynx/bd/bdc28b420a16378fd4698e0b55c7faf7.jpeg",
-      "color": "#0064a4",
+      "jobTitle": "Administration at Student Council and Class Representative",
+      "company": "Lígia Maria Student Council - Colégio Pedro II ",
+      "location": "Rio de Janeiro, Brazil",
+      "description": "Politics is a passion for me. Therefore, I’m always up to politically represent the school community. I was unanimously elected as class representative 5 times and I’m currently part of Pedro II Student Council, to which I was elected with 73% of votes. In Ligia Maria, I took the responsibility of organizing teamwork, scheduling meetings and assigning tasks. I also led two protests against the cut of funds for the federal institutions, in favor of LGBTQIA+ rights, and in support of the Black Lives Matter movement. \n\n In 2021, we developed a Discord server to form study groups during the transition to online classes, which currently has 120 users, 1/4 of the Pedro II’ student body. My next act as representative will be to fight for the continuity of the study from home financial assistance.",
+      "url": "https://www.instagram.com/gremioligiamaria/",
+      "image": "https://i.ibb.co/0FDSNP1/58805644-161263024886940-1348225223322145898-n.jpg",
+      "color": "#8D170E",
       "text": "#fff"
     }
   ],
